@@ -1,7 +1,7 @@
 ## Hello world, I'm Cassiano👋
 
 **Data Analyst & BI** | 15+ years in IT, supporting critical banking applications in production (SQL Server / T-SQL).
-I turn operational data into clear answers — with SQL, Power BI and Python.
+I turn operational data into clear answers with SQL, Power BI and Python.
 
 📍 Lisbon, Portugal · Open to roles in Portugal and remote
 
