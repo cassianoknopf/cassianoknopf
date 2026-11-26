@@ -9,7 +9,7 @@ I turn operational data into clear answers with SQL, Power BI and Python.
 
 | Project | What it answers | Tools |
 |---|---|---|
-| [Endividamento das Famílias no Brasil (2005–2026)]([https://github.com/cassianoknopf/ContosoRetailDWPortfolio](https://github.com/cassianoknopf/Endividamento-das-Familias-no-Brasil-2005-2026)) | Análise de quanto as famílias brasileiras devem e de quanto da renda delas vai para pagar dívidas | Python, SQL Server, Power BI |
+| [Endividamento das Famílias no Brasil(2005–2026)]([https://github.com/cassianoknopf/ContosoRetailDWPortfolio](https://github.com/cassianoknopf/Endividamento-das-Familias-no-Brasil-2005-2026)) | Análise de quanto as famílias brasileiras devem e de quanto da renda delas vai para pagar dívidas | Python, SQL Server, Power BI |
 | [Sales Channel Performance](https://github.com/cassianoknopf/ContosoRetailDWPortfolio) | Which sales channels drive revenue and returns? | SQL Server, Power BI |
 | [CallMeMaybe – Operator Efficiency](https://github.com/cassianoknopf/callmemaybe-operator-efficiency) | Which operators are underperforming, and why? | Python, pandas, statistics |
 | [A/B Test – Hypothesis Analysis](https://github.com/cassianoknopf/ab-test-hypothesis-analysis) | Did the change actually improve conversion? | Python, hypothesis testing |
